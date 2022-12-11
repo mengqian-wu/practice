@@ -1,10 +1,5 @@
 - 👋 Hi, I’m MQ @mengqian-wu
-- 👀 I’m interested in cognitive psychology, reading, writing fictions, swimming, playing basketball, playing chess, watercolor painting, singing, and dancing. 
-- 🌱 I graduated from the University of Illinois at Urbana Champaign, double majoring in Cognitive Psycholgy and Economics, minoring in Statistics. 
-      I’m currently enrolled in the Learning Science and Technology program at the University of Pennsylvania. 
-- 📫 Here is my email adress: wme@upenn.edu
+- 👀 I’m interested in cognitive psychology, learning science, educational data mining, and user modeling. I am a book buff, who enjoys writing fictions. As a cat person, I love outdoor activities, like swimming, playing basketball, ice skating, and skateboarding. 
+- 🌱 I graduated from the UIUC, double majoring in Cognitive Psycholgy and Economics, minoring in Statistics. Currently, I’m about graduated from the programs of Learning Science and Technologies and Computer Information Technology at the University of Pennsylvania. 
+- 📫 Here is my email adress: mqwu99@outlook.com
 
-<!---
-mengqian-wu/mengqian-wu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
