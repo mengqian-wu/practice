@@ -5,5 +5,8 @@
 - Pig 
 - Supermarket 
 - Tarot Card 
+- Zombie & Human
+- Big Five Survey
+
 
 
